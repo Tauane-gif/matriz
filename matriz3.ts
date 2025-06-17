@@ -8,6 +8,7 @@ let minhaMatriz: number [][] = []; //declrando matriz
 let linha: number = 5; 
 let coluna: number = 2; 
 
+
 for(let z = 0; z < linha; z++){
     minhaMatriz[z] = []; 
     for(let x = 0; x < 2 ; x++){
